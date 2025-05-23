@@ -1,0 +1,3 @@
+[submodule "sigecafe"]
+	path = sigecafe
+	url = https://github.com/mauriciobellon/sigecafe.git
